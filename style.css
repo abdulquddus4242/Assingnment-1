@@ -1,5 +1,20 @@
 body{
+    margin: 0%;
     font-family: 'Fjalla One', sans-serif;
+}
+
+.name-highlight-1{
+    color: #F97F51;
+}
+.name-highlight-2{
+    color: #82589F;
+}
+a{
+    text-decoration: none;
+    background-color: #FC427B;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
 }
 .half-width{
     width: 40%;
