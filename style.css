@@ -9,6 +9,9 @@ body{
 .name-highlight-2{
     color: #82589F;
 }
+top-banner{
+    background-color: #E5E5E5;
+}
 a{
     text-decoration: none;
     background-color: #FC427B;
