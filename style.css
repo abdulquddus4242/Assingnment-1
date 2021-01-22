@@ -34,17 +34,44 @@ a{
 }
 
 .lastet-work{
+    display: inline-block;
     width: 30%;
     float: left;
+    margin: auto;
 }
 .lastet-work img{
         width: 100%;
+        
+        
 }
 .middle-banner{
     background-color: #E5E5E5;
     height: 500px;
 }
 .lastet-area h1{
+   
     text-align: center;
     
+}
+.lastet-area{
+    margin-left: 50px;
+    display: inline-block
+}
+.work-inquiry{
+    height: 300px;
+}
+.inquriry{
+    margin: auto;
+    margin-top: 100px;
+    width: 500px;
+    height: 100px;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: darkmagenta;
+}
+.footer-area h1{
+    text-align: center;
+}
+.stay{
+    text-align: center;
 }
