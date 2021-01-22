@@ -5,13 +5,17 @@ body{
 
 .name-highlight-1{
     color: #F97F51;
+    font-size: 30px;
 }
 .name-highlight-2{
     color: #82589F;
 }
-top-banner{
+.top-banner{
     background-color: #E5E5E5;
+    height: 500px;
+    
 }
+
 a{
     text-decoration: none;
     background-color: #FC427B;
@@ -27,4 +31,20 @@ a{
 }
 .half-width img{
     width: 100%;
+}
+
+.lastet-work{
+    width: 30%;
+    float: left;
+}
+.lastet-work img{
+        width: 100%;
+}
+.middle-banner{
+    background-color: #E5E5E5;
+    height: 500px;
+}
+.lastet-area h1{
+    text-align: center;
+    
 }
