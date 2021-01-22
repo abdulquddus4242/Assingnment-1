@@ -11,7 +11,7 @@ body{
     color: #82589F;
 }
 .top-banner{
-    background-color: #E5E5E5;
+    
     height: 500px;
     
 }
@@ -36,7 +36,7 @@ a{
 .lastet-work{
     display: inline-block;
     width: 30%;
-    float: left;
+    
     margin: auto;
 }
 .lastet-work img{
@@ -45,7 +45,7 @@ a{
         
 }
 .middle-banner{
-    background-color: #E5E5E5;
+
     height: 500px;
 }
 .lastet-area h1{
@@ -59,6 +59,14 @@ a{
 }
 .work-inquiry{
     height: 300px;
+}
+#quiry{
+    float: left;
+    color: white;
+}
+#chat{
+    margin-top: 10px;
+    margin-left: 190px;
 }
 .inquriry{
     margin: auto;
@@ -74,4 +82,10 @@ a{
 }
 .stay{
     text-align: center;
+}
+.bottom-area img{
+    width: 5%;
+}
+.bottom-area{
+    margin-left: 570px;
 }
